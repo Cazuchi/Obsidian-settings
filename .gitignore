@@ -1,0 +1,7 @@
+# Ignore everything at root
+/*
+
+# Exceptions
+!/.obsidian/
+!README.md
+!.gitignore
