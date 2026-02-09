@@ -1,6 +1,7 @@
 {
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Primary",
   "enabledCssSnippets": [
     "Alternate-headings"
-  ]
+  ],
+  "theme": "obsidian"
 }
