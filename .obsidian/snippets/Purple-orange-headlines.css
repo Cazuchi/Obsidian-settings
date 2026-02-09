@@ -1,0 +1,25 @@
+/* Pink/Purple heading colors */
+
+/* Heading 1 - Bright Pink */
+.markdown-preview-view h1,
+.cm-header-1 {
+  color: #FFA47F !important;
+}
+
+/* Heading 2 - Pink-Purple */
+.markdown-preview-view h2,
+.cm-header-2 {
+  color: #FF52A0 !important;
+}
+
+/* Heading 3 - Light Purple */
+.markdown-preview-view h3,
+.cm-header-3 {
+  color: #B500B2 !important;
+}
+
+/* Heading 4 - Medium Purple */
+.markdown-preview-view h4,
+.cm-header-4 {
+  color: #8100D1 !important;
+}

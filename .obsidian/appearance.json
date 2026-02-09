@@ -1,7 +1,8 @@
 {
   "cssTheme": "Primary",
   "enabledCssSnippets": [
-    "Alternate-headings"
+    "Alternate-headings",
+    "Purple-orange-headlines"
   ],
   "theme": "obsidian"
 }
