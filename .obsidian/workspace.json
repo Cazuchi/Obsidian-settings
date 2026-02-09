@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "297fe5933634e7a0",
+        "id": "cd8ad01cdad6d6b1",
         "type": "tabs",
         "children": [
           {
-            "id": "07154716d9fc664e",
+            "id": "05b7bb94ed4dceca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "858fadccf9168937",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0937c44f89ef923d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -103,6 +87,7 @@
       {
         "id": "81806645b486fd95",
         "type": "tabs",
+        "dimension": 35.721200387221685,
         "children": [
           {
             "id": "9d4273223cd0a7c6",
@@ -181,12 +166,46 @@
               "title": "Outline of Welcome"
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "97e9e346e27e8bd6",
+        "type": "tabs",
+        "dimension": 27.008712487899324,
+        "children": [
+          {
+            "id": "c3db51908781576e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0f4d2cfddd53986",
+        "type": "tabs",
+        "dimension": 37.27008712487899,
+        "children": [
+          {
+            "id": "bb6f7d9606cccce9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +215,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07154716d9fc664e",
+  "active": "0d566bab69e300a9",
   "lastOpenFiles": [
+    "2026-02-09.md",
+    "Welcome.md",
     "README.md",
-    "desktop.ini",
-    "Welcome.md"
+    "desktop.ini"
   ]
 }
