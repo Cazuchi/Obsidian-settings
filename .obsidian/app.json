@@ -7,6 +7,9 @@
     "downscalePercent": 100
   },
   "spellcheck": false,
-  "attachmentFolderPath": "./attachments",
-  "readableLineLength": true
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BeCause.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "BeCause"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BeCause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for BeCause"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BeCause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from BeCause"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "BeCause.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of BeCause"
             }
           }
         ],
@@ -221,20 +221,22 @@
   },
   "active": "bf2b6ba03fc79f96",
   "lastOpenFiles": [
+    "~$BeCause.tmp",
+    "attachments/Pasted image 20260210102939.png",
+    "attachments/Pasted image 20260210102913.png",
+    "attachments/Pasted image 20260210102814.png",
+    "attachments/Pasted image 20260210102654.png",
+    "BeCause.docx",
+    "attachments/Pasted image 20260210102523.png",
+    "attachments/Pasted image 20260210102410.png",
+    "README.md",
     "BeCause.md",
     "Github-profile-readme.md",
     "attachments/Pasted image 20260209153628.png",
     "attachments/Pasted image 20260209153526.png",
     "attachments/Pasted image 20260209153432.png",
     "attachments/Pasted image 20260209153309.png",
-    "attachments/Pasted image 20260209153242.png",
-    "attachments/Pasted image 20260209152720.png",
-    "attachments/Pasted image 20260209152231.png",
-    "attachments/Pasted image 20260209152159.png",
-    "attachments/Pasted image 20260209152052.png",
-    "attachments/Pasted image 20260209152447.png",
     "attachments",
-    "README.md",
     "create a link.md",
     "test2",
     "test",
